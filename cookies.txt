@@ -1,9 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-fhpswx.wixsite.com	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=hit#varnish=hit#dc#desc=42
-fhpswx.wixsite.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1681158898|pIYHep6YzZqS
-fhpswx.wixsite.com	TRUE	/	FALSE	1999999999	TS0148e245	018d9e98b6271827b529d4b5bda60ba10e842d21b80697c690b2b41a8cfc931be8b625da9deed254a41140ee4a23ab29107449ae53318bdb4daa80fd9eebd0d5f236e7f077
-fhpswx.wixsite.com	TRUE	/	FALSE	1999999999	TS01ac005e	018d9e98b6008fd61c9da8243dd3cf2fbaf069feb60697c690b2b41a8cfc931be8b625da9d472b0afce7c99c9ce86bcf07c246eded0098fcb6bc3510f76d7f0694471326de
-.wixsite.com	TRUE	/	FALSE	1999999999	TS016e3841	01c46356a73eca398fa44f9d1b68ab927d2c38cd72d8b0f65496262fa097606dc38cee8b1cadc9f93d7f622c9e637fb80513d9b513
-fhpswx.wixsite.com	TRUE	/	FALSE	1999999999	SameSite	none
-
